@@ -1,0 +1,15 @@
+.card-header h5{
+    height: 55px;
+    overflow: hidden;
+}
+.spinner{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(255, 255, 255, .75);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
